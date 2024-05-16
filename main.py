@@ -7,7 +7,17 @@ options = [
     {"name": "Тема 4 Завдання 1", "fileName": "topic4task1.py"},
     {"name": "Тема 4 Завдання 2", "fileName": "topic4task2.py"},
     {"name": "Тема 4 Завдання 3", "fileName": "topic4task3.py"},
-    {"name": "Тема 4 Завдання 4", "fileName": "topic4task4.py"}
+    {"name": "Тема 4 Завдання 4", "fileName": "topic4task4.py"},
+    {"name": "Тема 6 Завдання 1", "fileName": "topic6task1.py"},
+    {"name": "Тема 6 Завдання 2", "fileName": "topic6task2.py"},
+    {"name": "Тема 6 Завдання 3", "fileName": "topic6task3.py"},
+    {"name": "Тема 6 Завдання 4", "fileName": "topic6task4.py"},
+    {"name": "Тема 8 Завдання 1", "fileName": "topic8task1.py"},
+    {"name": "Тема 8 Завдання 2", "fileName": "topic8task2.py"},
+    {"name": "Тема 8 Завдання 4", "fileName": "topic8task4.py"},
+    {"name": "Тема 9 Завдання 1", "fileName": "topic9task1.py"},
+    {"name": "Тема 10 Завдання 1", "fileName": "topic10task1.py"},
+    {"name": "Тема 10 Завдання 2", "fileName": "topic10task2.py"},
 ]
 
 def print_menu():
@@ -24,7 +34,7 @@ def print_menu():
     print("====================")
     print("Viacheslav Chukhno")
     print("Python Course")
-    print("WOLF University")
+    print("WOOLF University")
     print("2024")
     print("====================")
     print(Style.RESET_ALL)
