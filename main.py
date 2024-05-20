@@ -18,6 +18,7 @@ options = [
     {"name": "Тема 9 Завдання 1", "fileName": "topic9task1.py"},
     {"name": "Тема 10 Завдання 1", "fileName": "topic10task1.py"},
     {"name": "Тема 10 Завдання 2", "fileName": "topic10task2.py"},
+    {"name": "Тема 12 Завдання 1", "fileName": "topic12task1.py"},
 ]
 
 def print_menu():
